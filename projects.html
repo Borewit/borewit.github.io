@@ -1,0 +1,4 @@
+<h2>Featured projects</h2>
+{% for project in site.data.projects.projects %}
+    <h3><a href="{{ project.githubUrl }}">{{ project.name }}</a></h3>
+{% endfor %}

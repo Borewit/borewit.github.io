@@ -81,13 +81,23 @@ A MusicBrainz-API-client for reading and submitting metadata.
 - ![GitHub stars](https://img.shields.io/github/stars/Borewit/musicbrainz-api?logoWidth=50 )
 - ![GitHub forks](https://img.shields.io/github/forks/Borewit/musicbrainz-api?style=social&logoWidth=50)
 
+### [load-esm](https://github.com/Borewit/load-esm)
+A utility for dynamically importing pure ESM (ECMAScript Module) packages in CommonJS TypeScript projects.
+- [![NPM version](https://img.shields.io/npm/v/load-esm?style=social&logoWidth=56)](https://npmjs.org/package/load-esm)
+- [![npm downloads](http://img.shields.io/npm/dm/load-esm?style=social&logoWidth=23)](https://npmcharts.com/compare/load-esm?start=1200&interval=30)
+- ![GitHub stars](https://img.shields.io/github/stars/Borewit/load-esm?logoWidth=50 )
+- ![GitHub forks](https://img.shields.io/github/forks/Borewit/load-esm?style=social&logoWidth=50)
+
+
 ### [rate-limit-threshold](https://github.com/Borewit/rate-limit-threshold)
+To limit the number of calls per given period of time.
 - [![NPM version](https://img.shields.io/npm/v/rate-limit-threshold?style=social&logoWidth=56)](https://npmjs.org/package/rate-limit-threshold)
 - [![npm downloads](http://img.shields.io/npm/dm/rate-limit-threshold?style=social&logoWidth=23)](https://npmcharts.com/compare/rate-limit-threshold?start=1200&interval=30)
 - ![GitHub stars](https://img.shields.io/github/stars/Borewit/rate-limit-threshold?logoWidth=50 )
 - ![GitHub forks](https://img.shields.io/github/forks/Borewit/rate-limit-threshold?style=social&logoWidth=50)
 
 ### [listFix()](https://github.com/Borewit/listFix)
+A utility to repair local playlists, such as `.m3u`.
 - [![GitHub Release version](https://img.shields.io/github/v/release/Borewit/listFix?style=social&logoWidth=40)](https://github.com/Borewit/listFix/releases)
 - ![GitHub downloads](http://img.shields.io/github/downloads/Borewit/listfix/total?style=social&logoWidth=22)
 - ![GitHub stars](https://img.shields.io/github/stars/Borewit/listFix?logoWidth=50 )
