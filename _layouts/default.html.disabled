@@ -1,0 +1,42 @@
+<!doctype html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>{{ page.title }}</title>
+    <script type="application/ld+json">
+    {"@context":"https://schema.org","@type":"WebSite","headline":"Borewit","name":"Borewit","url":"https://borewit.github.io/"}</script>
+    <!-- End Jekyll SEO tag -->
+
+    <link rel="stylesheet" href="/assets/css/style.css?v=f54643aaa13e885a17b23918fce0163ac91d4356">
+    <!-- start custom head snippets, customize with your own _includes/head-custom.html file -->
+
+    <!-- Setup Google Analytics -->
+
+
+
+    <!-- You can set your favicon here -->
+    <!-- link rel="shortcut icon" type="image/x-icon" href="/favicon.ico" -->
+
+    <!-- end custom head snippets -->
+
+</head>
+<body>
+<nav>
+    <a href="/">Home</a>
+    <a href="/projects/">Projects</a>
+</nav>
+<h1>{{ page.title }}</h1>
+<section>
+    <div class="container-lg px-3 my-5 markdown-body">
+        {{ content }}
+    </div>
+</section>
+<footer>
+    <div class="footer border-top border-gray-light mt-5 pt-3 text-right text-gray">
+        This site is open source. <a href="https://github.com/Borewit/borewit.github.io/">GitHub</a>.
+    </div>
+</footer>
+</body>
+</html>

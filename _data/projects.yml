@@ -1,0 +1,13 @@
+
+
+projects:
+  - name: music-metadata
+    npmName: music-metadata
+    githubUrl: https://github.com/Borewit/music-metadata
+    description: A comprehensive metadata parser for audio files. Supports practically any conventional audio format. This library helps you read audio file metadata easily.
+
+  - name: strtok3
+    npmName: strtok3
+    githubUrl: https://github.com/Borewit/strtok3
+    description: Tokenizer library reading binary data, often used in combination with other multimedia projects.
+
