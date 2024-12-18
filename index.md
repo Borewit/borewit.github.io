@@ -102,13 +102,18 @@ To limit the number of calls per given period of time.
 - ![GitHub stars](https://img.shields.io/github/stars/Borewit/rate-limit-threshold?logoWidth=50 )
 - ![GitHub forks](https://img.shields.io/github/forks/Borewit/rate-limit-threshold?style=social&logoWidth=50)
 
+### [@file-type/xml](https://github.com/Borewit/file-type-xml)
+[file-type](#file-type) extension for detecting XML types like SVG, KML, XHTML
+- [![npm downloads](http://img.shields.io/npm/dm/@file-type/xml?style=social&logoWidth=23)](https://npmcharts.com/compare/@file-type/xml?start=1200&interval=30)
+- ![GitHub stars](https://img.shields.io/github/stars/Borewit/file-type-xml?logoWidth=50 )
+- ![GitHub forks](https://img.shields.io/github/forks/Borewit/file-type-xml?style=social&logoWidth=50)
+
 ### [listFix()](https://github.com/Borewit/listFix)
 A utility to repair local playlists, such as `.m3u`.
 - [![GitHub Release version](https://img.shields.io/github/v/release/Borewit/listFix?style=social&logoWidth=40)](https://github.com/Borewit/listFix/releases)
 - ![GitHub downloads](http://img.shields.io/github/downloads/Borewit/listfix/total?style=social&logoWidth=22)
 - ![GitHub stars](https://img.shields.io/github/stars/Borewit/listFix?logoWidth=50 )
 - ![GitHub forks](https://img.shields.io/github/forks/Borewit/listFix?style=social&logoWidth=50)
-
 
 ### [Lizzy](https://github.com/Borewit/lizzy)
 - [![Maven Central](https://img.shields.io/maven-central/v/io.github.borewit/lizzy?style=social&logoWidth=7)](https://maven-badges.herokuapp.com/maven-central/io.github.borewit/lizzy)
