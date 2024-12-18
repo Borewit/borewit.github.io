@@ -64,6 +64,14 @@ The range request mechanism is derived from `@tokenizer/range`.
 - ![GitHub stars](https://img.shields.io/github/stars/Borewit/tokenizer-http?logoWidth=50 )
 - ![GitHub forks](https://img.shields.io/github/forks/Borewit/tokenizer-http?style=social&logoWidth=50)
 
+### [@tokenizer/inflate](https://github.com/Borewit/tokenizer-inflate)
+Utilizing the `strtok3` framework, to efficiently extract a portion of zipped file.
+This can for example be used, to extract a portion of a file stored in the cloud, where only required the required data is transferred.
+ 
+- [![npm downloads](http://img.shields.io/npm/dm/@tokenizer/inflate?style=social&logoWidth=23)](https://npmcharts.com/compare/@tokenizer/inflate?start=1200&interval=30)
+- ![GitHub stars](https://img.shields.io/github/stars/Borewit/tokenizer-inflate?logoWidth=50 )
+- ![GitHub forks](https://img.shields.io/github/forks/Borewit/tokenizer-inflate?style=social&logoWidth=50)
+
 ### [@tokenizer/range](https://github.com/Borewit//tokenizer-range)
 Adapter to designed to convert strtok3 tokenizer to RFC-7233 range requests.
  
@@ -71,7 +79,6 @@ Adapter to designed to convert strtok3 tokenizer to RFC-7233 range requests.
 - [![npm downloads](http://img.shields.io/npm/dm/@tokenizer/range?style=social&logoWidth=23)](https://npmcharts.com/compare/@tokenizer/range?start=1200&interval=30)
 - ![GitHub stars](https://img.shields.io/github/stars/Borewit/tokenizer-range?logoWidth=50 )
 - ![GitHub forks](https://img.shields.io/github/forks/Borewit/tokenizer-range?style=social&logoWidth=50)
-
 
 ### [musicbrainz-api](https://github.com/Borewit/musicbrainz-api)
 A MusicBrainz-API-client for reading and submitting metadata.
@@ -87,7 +94,6 @@ A utility for dynamically importing pure ESM (ECMAScript Module) packages in Com
 - [![npm downloads](http://img.shields.io/npm/dm/load-esm?style=social&logoWidth=23)](https://npmcharts.com/compare/load-esm?start=1200&interval=30)
 - ![GitHub stars](https://img.shields.io/github/stars/Borewit/load-esm?logoWidth=50 )
 - ![GitHub forks](https://img.shields.io/github/forks/Borewit/load-esm?style=social&logoWidth=50)
-
 
 ### [rate-limit-threshold](https://github.com/Borewit/rate-limit-threshold)
 To limit the number of calls per given period of time.
