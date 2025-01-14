@@ -102,8 +102,17 @@ To limit the number of calls per given period of time.
 - ![GitHub stars](https://img.shields.io/github/stars/Borewit/rate-limit-threshold?logoWidth=50 )
 - ![GitHub forks](https://img.shields.io/github/forks/Borewit/rate-limit-threshold?style=social&logoWidth=50)
 
+### [read-next-line](https://github.com/Borewit/read-next-line)
+A utility read lines of text from a `StreamReadable`, designed for the Stream API.
+- [![NPM version](https://img.shields.io/npm/v/read-next-line?style=social&logoWidth=56)](https://npmjs.org/package/read-next-line)
+- [![npm downloads](http://img.shields.io/npm/dm/read-next-line?style=social&logoWidth=23)](https://npmcharts.com/compare/read-next-line?start=1200&interval=30)
+- ![GitHub stars](https://img.shields.io/github/stars/Borewit/read-next-line?logoWidth=50 )
+- ![GitHub forks](https://img.shields.io/github/forks/Borewit/read-next-line?style=social&logoWidth=50)
+
+
 ### [@file-type/xml](https://github.com/Borewit/file-type-xml)
 [file-type](#file-type) extension for detecting XML types like SVG, KML, XHTML
+- [![NPM version](https://img.shields.io/npm/v/@file-type/xml?style=social&logoWidth=56)](https://npmjs.org/package/@file-type/xml)
 - [![npm downloads](http://img.shields.io/npm/dm/@file-type/xml?style=social&logoWidth=23)](https://npmcharts.com/compare/@file-type/xml?start=1200&interval=30)
 - ![GitHub stars](https://img.shields.io/github/stars/Borewit/file-type-xml?logoWidth=50 )
 - ![GitHub forks](https://img.shields.io/github/forks/Borewit/file-type-xml?style=social&logoWidth=50)
