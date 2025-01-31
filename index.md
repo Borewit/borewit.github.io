@@ -109,6 +109,19 @@ A utility read lines of text from a `StreamReadable`, designed for the Stream AP
 - ![GitHub stars](https://img.shields.io/github/stars/Borewit/read-next-line?logoWidth=50 )
 - ![GitHub forks](https://img.shields.io/github/forks/Borewit/read-next-line?style=social&logoWidth=50)
 
+### [node-readable-to-web-readable-stream](https://github.com/Borewit/node-readable-to-web-readable-stream)
+Converts a Node.js Readable stream into a WHATWG / Web-API ReadableStream.
+- [![NPM version](https://img.shields.io/npm/v/node-readable-to-web-readable-stream?style=social&logoWidth=56)](https://npmjs.org/package/node-readable-to-web-readable-stream)
+- [![npm downloads](http://img.shields.io/npm/dm/node-readable-to-web-readable-stream?style=social&logoWidth=23)](https://npmcharts.com/compare/node-readable-to-web-readable-stream?start=1200&interval=7)
+- ![GitHub stars](https://img.shields.io/github/stars/Borewit/node-readable-to-web-readable-stream?logoWidth=50 )
+- ![GitHub forks](https://img.shields.io/github/forks/Borewit/node-readable-to-web-readable-stream?style=social&logoWidth=50)
+
+### [readable-web-to-node-stream](https://github.com/Borewit/readable-web-to-node-stream)
+Converts a WHATWG / Web-API readable stream into a Node.js Readable stream.
+- [![NPM version](https://img.shields.io/npm/v/readable-web-to-node-stream?style=social&logoWidth=56)](https://npmjs.org/package/readable-web-to-node-stream)
+- [![npm downloads](http://img.shields.io/npm/dm/readable-web-to-node-stream?style=social&logoWidth=23)](https://www.npmcharts.com/compare/readable-web-to-node-stream?start=1200&interval=7)
+- ![GitHub stars](https://img.shields.io/github/stars/Borewit/readable-web-to-node-stream?logoWidth=50 )
+- ![GitHub forks](https://img.shields.io/github/forks/Borewit/readable-web-to-node-stream?style=social&logoWidth=50)
 
 ### [@file-type/xml](https://github.com/Borewit/file-type-xml)
 [file-type](#file-type) extension for detecting XML types like SVG, KML, XHTML
