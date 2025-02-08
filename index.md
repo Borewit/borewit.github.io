@@ -130,6 +130,20 @@ Converts a WHATWG / Web-API readable stream into a Node.js Readable stream.
 - ![GitHub stars](https://img.shields.io/github/stars/Borewit/file-type-xml?logoWidth=50 )
 - ![GitHub forks](https://img.shields.io/github/forks/Borewit/file-type-xml?style=social&logoWidth=50)
 
+### [@borewit/async-queue](https://github.com/Borewit/async-queue)
+Great to async iterate over received events 
+- [![NPM version](https://img.shields.io/npm/v/@borewit/async-queue?style=social&logoWidth=56)](https://npmjs.org/package/@borewit/async-queue)
+- [![npm downloads](http://img.shields.io/npm/dm/@borewit/async-queue?style=social&logoWidth=23)](https://npmcharts.com/compare/@borewit/async-queue?start=1200&interval=30)
+- ![GitHub stars](https://img.shields.io/github/stars/Borewit/async-queue?logoWidth=50 )
+- ![GitHub forks](https://img.shields.io/github/forks/Borewit/async-queue?style=social&logoWidth=50)
+
+### [bounded-queue](https://github.com/Borewit/bounded-queue)
+Solves producer–consumer problem, in async manner.
+- [![NPM version](https://img.shields.io/npm/v/bounded-queue?style=social&logoWidth=56)](https://npmjs.org/package/bounded-queue)
+- [![npm downloads](http://img.shields.io/npm/dm/bounded-queue?style=social&logoWidth=23)](https://npmcharts.com/compare/bounded-queue?start=1200&interval=30)
+- ![GitHub stars](https://img.shields.io/github/stars/Borewit/bounded-queue?logoWidth=50 )
+- ![GitHub forks](https://img.shields.io/github/forks/Borewit/bounded-queue?style=social&logoWidth=50)
+
 ### [listFix()](https://github.com/Borewit/listFix)
 A utility to repair local playlists, such as `.m3u`.
 - [![GitHub Release version](https://img.shields.io/github/v/release/Borewit/listFix?style=social&logoWidth=40)](https://github.com/Borewit/listFix/releases)
