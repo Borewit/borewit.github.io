@@ -147,7 +147,7 @@ A utility to repair local playlists, such as `.m3u`.
 ### [file-type](https://github.com/sindresorhus/file-type)
 Library for detecting file types based on binary signatures, crucial for accurate file type identification in various applications.
 - [![NPM version](https://img.shields.io/npm/v/file-type?style=social&logoWidth=56)](https://npmjs.org/package/file-type)
-- ![npm downloads](http://img.shields.io/npm/dm/file-type?style=social&logoWidth=23)
+- [![npm downloads](http://img.shields.io/npm/dm/file-type?style=social&logoWidth=23)](https://npmcharts.com/compare/file-type?start=1200&interval=30)
 - ![GitHub stars](https://img.shields.io/github/stars/sindresorhus/file-type?logoWidth=50 )
 - ![GitHub forks](https://img.shields.io/github/forks/sindresorhus/file-type?style=social&logoWidth=50)
 
