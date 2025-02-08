@@ -68,7 +68,7 @@ The range request mechanism is derived from `@tokenizer/range`.
 Utilizing the `strtok3` framework, to efficiently extract a portion of zipped file.
 This can for example be used, to extract a portion of a file stored in the cloud, where only required the required data is transferred.
  
-- [![npm downloads](http://img.shields.io/npm/dm/@tokenizer/inflate?style=social&logoWidth=23)](https://npmcharts.com/compare/@tokenizer/inflate?start=1200&interval=30)
+- [![npm downloads](http://img.shields.io/npm/dm/@tokenizer/inflate?style=social&logoWidth=23)](https://npmcharts.com/compare/@tokenizer/inflate?start=365)
 - ![GitHub stars](https://img.shields.io/github/stars/Borewit/tokenizer-inflate?logoWidth=50 )
 - ![GitHub forks](https://img.shields.io/github/forks/Borewit/tokenizer-inflate?style=social&logoWidth=50)
 
@@ -105,42 +105,42 @@ To limit the number of calls per given period of time.
 ### [read-next-line](https://github.com/Borewit/read-next-line)
 A utility read lines of text from a `StreamReadable`, designed for the Stream API.
 - [![NPM version](https://img.shields.io/npm/v/read-next-line?style=social&logoWidth=56)](https://npmjs.org/package/read-next-line)
-- [![npm downloads](http://img.shields.io/npm/dm/read-next-line?style=social&logoWidth=23)](https://npmcharts.com/compare/read-next-line?start=1200&interval=30)
+- [![npm downloads](http://img.shields.io/npm/dm/read-next-line?style=social&logoWidth=23)](https://npmcharts.com/compare/read-next-line?start=356)
 - ![GitHub stars](https://img.shields.io/github/stars/Borewit/read-next-line?logoWidth=50 )
 - ![GitHub forks](https://img.shields.io/github/forks/Borewit/read-next-line?style=social&logoWidth=50)
 
 ### [node-readable-to-web-readable-stream](https://github.com/Borewit/node-readable-to-web-readable-stream)
 Converts a Node.js Readable stream into a WHATWG / Web-API ReadableStream.
 - [![NPM version](https://img.shields.io/npm/v/node-readable-to-web-readable-stream?style=social&logoWidth=56)](https://npmjs.org/package/node-readable-to-web-readable-stream)
-- [![npm downloads](http://img.shields.io/npm/dm/node-readable-to-web-readable-stream?style=social&logoWidth=23)](https://npmcharts.com/compare/node-readable-to-web-readable-stream?start=1200&interval=7)
+- [![npm downloads](http://img.shields.io/npm/dm/node-readable-to-web-readable-stream?style=social&logoWidth=23)](https://npmcharts.com/compare/node-readable-to-web-readable-stream?start=356)
 - ![GitHub stars](https://img.shields.io/github/stars/Borewit/node-readable-to-web-readable-stream?logoWidth=50 )
 - ![GitHub forks](https://img.shields.io/github/forks/Borewit/node-readable-to-web-readable-stream?style=social&logoWidth=50)
 
 ### [readable-web-to-node-stream](https://github.com/Borewit/readable-web-to-node-stream)
 Converts a WHATWG / Web-API readable stream into a Node.js Readable stream.
 - [![NPM version](https://img.shields.io/npm/v/readable-web-to-node-stream?style=social&logoWidth=56)](https://npmjs.org/package/readable-web-to-node-stream)
-- [![npm downloads](http://img.shields.io/npm/dm/readable-web-to-node-stream?style=social&logoWidth=23)](https://www.npmcharts.com/compare/readable-web-to-node-stream?start=1200&interval=7)
+- [![npm downloads](http://img.shields.io/npm/dm/readable-web-to-node-stream?style=social&logoWidth=23)](https://www.npmcharts.com/compare/readable-web-to-node-stream?start=356)
 - ![GitHub stars](https://img.shields.io/github/stars/Borewit/readable-web-to-node-stream?logoWidth=50 )
 - ![GitHub forks](https://img.shields.io/github/forks/Borewit/readable-web-to-node-stream?style=social&logoWidth=50)
 
 ### [@file-type/xml](https://github.com/Borewit/file-type-xml)
 [file-type](#file-type) extension for detecting XML types like SVG, KML, XHTML
 - [![NPM version](https://img.shields.io/npm/v/@file-type/xml?style=social&logoWidth=56)](https://npmjs.org/package/@file-type/xml)
-- [![npm downloads](http://img.shields.io/npm/dm/@file-type/xml?style=social&logoWidth=23)](https://npmcharts.com/compare/@file-type/xml?start=1200&interval=30)
+- [![npm downloads](http://img.shields.io/npm/dm/@file-type/xml?style=social&logoWidth=23)](https://npmcharts.com/compare/@file-type/xml?start=356)
 - ![GitHub stars](https://img.shields.io/github/stars/Borewit/file-type-xml?logoWidth=50 )
 - ![GitHub forks](https://img.shields.io/github/forks/Borewit/file-type-xml?style=social&logoWidth=50)
 
 ### [@borewit/async-queue](https://github.com/Borewit/async-queue)
 Great to async iterate over received events 
 - [![NPM version](https://img.shields.io/npm/v/@borewit/async-queue?style=social&logoWidth=56)](https://npmjs.org/package/@borewit/async-queue)
-- [![npm downloads](http://img.shields.io/npm/dm/@borewit/async-queue?style=social&logoWidth=23)](https://npmcharts.com/compare/@borewit/async-queue?start=1200&interval=30)
+- [![npm downloads](http://img.shields.io/npm/dm/@borewit/async-queue?style=social&logoWidth=23)](https://npmcharts.com/compare/@borewit/async-queue?start=356)
 - ![GitHub stars](https://img.shields.io/github/stars/Borewit/async-queue?logoWidth=50 )
 - ![GitHub forks](https://img.shields.io/github/forks/Borewit/async-queue?style=social&logoWidth=50)
 
 ### [bounded-queue](https://github.com/Borewit/bounded-queue)
 Solves producer–consumer problem, in async manner.
 - [![NPM version](https://img.shields.io/npm/v/bounded-queue?style=social&logoWidth=56)](https://npmjs.org/package/bounded-queue)
-- [![npm downloads](http://img.shields.io/npm/dm/bounded-queue?style=social&logoWidth=23)](https://npmcharts.com/compare/bounded-queue?start=1200&interval=30)
+- [![npm downloads](http://img.shields.io/npm/dm/bounded-queue?style=social&logoWidth=23)](https://npmcharts.com/compare/bounded-queue?start=356)
 - ![GitHub stars](https://img.shields.io/github/stars/Borewit/bounded-queue?logoWidth=50 )
 - ![GitHub forks](https://img.shields.io/github/forks/Borewit/bounded-queue?style=social&logoWidth=50)
 
