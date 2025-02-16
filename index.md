@@ -8,6 +8,10 @@ My work spans a variety of projects aimed at solving challenges related to audio
 
 <img src="images/musicbrainz-api-logo.png" width="60%" style="display: block; margin: auto;">
 
+## 📈 GitHub statistics
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Borewit&theme=default&show_icons=true&hide_border=true&count_private=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Borewit&theme=default&show_icons=true&hide_border=true&layout=compact)
+
 ## 📦 Featured Projects
 
 ### My projects
