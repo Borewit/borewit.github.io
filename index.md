@@ -76,7 +76,7 @@ This can for example be used, to extract a portion of a file stored in the cloud
 - ![GitHub stars](https://img.shields.io/github/stars/Borewit/tokenizer-inflate?logoWidth=50 )
 - ![GitHub forks](https://img.shields.io/github/forks/Borewit/tokenizer-inflate?style=social&logoWidth=50)
 
-### [@tokenizer/range](https://github.com/Borewit//tokenizer-range)
+### [@tokenizer/range](https://github.com/Borewit/tokenizer-range)
 Adapter to designed to convert strtok3 tokenizer to RFC-7233 range requests.
  
 - [![NPM version](https://img.shields.io/npm/v/@tokenizer/range?style=social&logoWidth=56)](https://npmjs.org/package/@tokenizer/range)
