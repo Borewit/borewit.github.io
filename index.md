@@ -142,28 +142,46 @@ Great to async iterate over received events
 - ![GitHub forks](https://img.shields.io/github/forks/Borewit/async-queue?style=social&logoWidth=50)
 
 ### [bounded-queue](https://github.com/Borewit/bounded-queue)
+
 Solves producer–consumer problem, in async manner.
+
 - [![NPM version](https://img.shields.io/npm/v/bounded-queue?style=social&logoWidth=56)](https://npmjs.org/package/bounded-queue)
 - [![npm downloads](http://img.shields.io/npm/dm/bounded-queue?style=social&logoWidth=23)](https://npmcharts.com/compare/bounded-queue?start=365)
 - ![GitHub stars](https://img.shields.io/github/stars/Borewit/bounded-queue?logoWidth=50 )
 - ![GitHub forks](https://img.shields.io/github/forks/Borewit/bounded-queue?style=social&logoWidth=50)
 
 ### [listFix()](https://github.com/Borewit/listFix)
+
 A utility to repair local playlists, such as `.m3u`.
+ 
 - [![GitHub Release version](https://img.shields.io/github/v/release/Borewit/listFix?style=social&logoWidth=40)](https://github.com/Borewit/listFix/releases)
 - ![GitHub downloads](http://img.shields.io/github/downloads/Borewit/listfix/total?style=social&logoWidth=22)
 - ![GitHub stars](https://img.shields.io/github/stars/Borewit/listFix?logoWidth=50 )
 - ![GitHub forks](https://img.shields.io/github/forks/Borewit/listFix?style=social&logoWidth=50)
 
 ### [Lizzy](https://github.com/Borewit/lizzy)
+
+A multimedia playlist parser, supporting a wide range of playlist file formats.
+ 
 - [![Maven Central](https://img.shields.io/maven-central/v/io.github.borewit/lizzy?style=social&logoWidth=7)](https://maven-badges.herokuapp.com/maven-central/io.github.borewit/lizzy)
 - ![GitHub stars](https://img.shields.io/github/stars/Borewit/lizzy?logoWidth=50 )
 - ![GitHub forks](https://img.shields.io/github/forks/Borewit/lizzy?style=social&logoWidth=50)
 
+### [svg-sanitizer](https://github.com/Borewit/svg-sanitizer)
+
+Java library designed to clean SVG files by removing potentially dangerous JavaScript, blocking external resource loading, and preventing XSS (Cross-Site Scripting) vulnerabilities. It is useful for ensuring that SVG files are safe to use in a variety of applications, including web environments.
+ 
+- [![Maven Central](https://img.shields.io/maven-central/v/io.github.borewit/svg-sanitizer?style=social&logoWidth=7)](https://maven-badges.herokuapp.com/maven-central/io.github.borewit/svg-sanitizer)
+- ![GitHub stars](https://img.shields.io/github/stars/Borewit/svg-sanitizer?logoWidth=50 )
+- ![GitHub forks](https://img.shields.io/github/forks/Borewit/svg-sanitizer?style=social&logoWidth=50)
+
+
 ### Projects I contribute to
 
 ### [file-type](https://github.com/sindresorhus/file-type)
-Library for detecting file types based on binary signatures, crucial for accurate file type identification in various applications.
+
+A library for detecting file types based on binary signatures, crucial for accurate file type identification in various applications.
+ 
 - [![NPM version](https://img.shields.io/npm/v/file-type?style=social&logoWidth=56)](https://npmjs.org/package/file-type)
 - [![npm downloads](http://img.shields.io/npm/dm/file-type?style=social&logoWidth=23)](https://npmcharts.com/compare/file-type?start=1200&interval=30)
 - ![GitHub stars](https://img.shields.io/github/stars/sindresorhus/file-type?logoWidth=50 )
