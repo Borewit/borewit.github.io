@@ -163,7 +163,7 @@ A utility to repair local playlists, such as `.m3u`.
 
 A multimedia playlist parser, supporting a wide range of playlist file formats.
  
-- [![Maven Central](https://img.shields.io/maven-central/v/io.github.borewit/lizzy?style=social&logoWidth=7)](https://maven-badges.herokuapp.com/maven-central/io.github.borewit/lizzy)
+- [![Maven Central](https://img.shields.io/maven-central/v/io.github.borewit/lizzy?style=social&logoWidth=7)](https://central.sonatype.com/artifact/io.github.borewit/lizzy)
 - ![GitHub stars](https://img.shields.io/github/stars/Borewit/lizzy?logoWidth=50 )
 - ![GitHub forks](https://img.shields.io/github/forks/Borewit/lizzy?style=social&logoWidth=50)
 
@@ -171,7 +171,7 @@ A multimedia playlist parser, supporting a wide range of playlist file formats.
 
 Java library designed to clean SVG files by removing potentially dangerous JavaScript, blocking external resource loading, and preventing XSS (Cross-Site Scripting) vulnerabilities. It is useful for ensuring that SVG files are safe to use in a variety of applications, including web environments.
  
-- [![Maven Central](https://img.shields.io/maven-central/v/io.github.borewit/svg-sanitizer?style=social&logoWidth=7)](https://maven-badges.herokuapp.com/maven-central/io.github.borewit/svg-sanitizer)
+- [![Maven Central](https://img.shields.io/maven-central/v/io.github.borewit/svg-sanitizer?style=social&logoWidth=7)](https://central.sonatype.com/artifact/io.github.borewit/svg-sanitizer)
 - ![GitHub stars](https://img.shields.io/github/stars/Borewit/svg-sanitizer?logoWidth=50 )
 - ![GitHub forks](https://img.shields.io/github/forks/Borewit/svg-sanitizer?style=social&logoWidth=50)
 
