@@ -129,7 +129,7 @@ Converts a WHATWG / Web-API readable stream into a Node.js Readable stream.
 
 ### [@file-type/xml](https://github.com/Borewit/file-type-xml)
 [file-type](#file-type) extension for detecting XML types like SVG, KML, XHTML. 
-This component is as well the detection engine of [is-svg](https://www.npmjs.com/package/is-svg).
+This component is as well the detection engine of [is-svg](#is-svg).
 - [![NPM version](https://img.shields.io/npm/v/@file-type/xml?style=social&logoWidth=56)](https://npmjs.org/package/@file-type/xml)
 - [![npm downloads](http://img.shields.io/npm/dm/@file-type/xml?style=social&logoWidth=23)](https://npmcharts.com/compare/@file-type/xml?start=365)
 - ![GitHub stars](https://img.shields.io/github/stars/Borewit/file-type-xml?logoWidth=50 )
@@ -187,6 +187,15 @@ A library for detecting file types based on binary signatures, crucial for accur
 - [![npm downloads](http://img.shields.io/npm/dm/file-type?style=social&logoWidth=23)](https://npmcharts.com/compare/file-type?start=1200&interval=30)
 - ![GitHub stars](https://img.shields.io/github/stars/sindresorhus/file-type?logoWidth=50 )
 - ![GitHub forks](https://img.shields.io/github/forks/sindresorhus/file-type?style=social&logoWidth=50)
+
+### [is-svg](https://github.com/sindresorhus/is-svg)
+
+Checks if a string is SVG.
+
+- [![NPM version](https://img.shields.io/npm/v/is-svg?style=social&logoWidth=56)](https://npmjs.org/package/is-svg)
+- [![npm downloads](http://img.shields.io/npm/dm/is-svg?style=social&logoWidth=23)](https://npmcharts.com/compare/is-svg?start=1200&interval=30)
+- ![GitHub stars](https://img.shields.io/github/stars/sindresorhus/is-svg?logoWidth=50 )
+- ![GitHub forks](https://img.shields.io/github/forks/sindresorhus/is-svg?style=social&logoWidth=50)
 
 ## Support these Projects
 If you find this project useful and would like to support its development, consider sponsoring or contributing:
