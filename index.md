@@ -127,6 +127,14 @@ Converts a WHATWG / Web-API readable stream into a Node.js Readable stream.
 - ![GitHub stars](https://img.shields.io/github/stars/Borewit/readable-web-to-node-stream?logoWidth=50 )
 - ![GitHub forks](https://img.shields.io/github/forks/Borewit/readable-web-to-node-stream?style=social&logoWidth=50)
 
+### [@file-type/av](https://github.com/Borewit/file-type-av)
+[file-type](#file-type) extension for detecting audio / video media file types.
+- [![NPM version](https://img.shields.io/npm/v/@file-type/av?style=social&logoWidth=56)](https://npmjs.org/package/@file-type/av)
+- [![npm downloads](http://img.shields.io/npm/dm/@file-type/av?style=social&logoWidth=23)](https://npmcharts.com/compare/@file-type/av?start=365)
+- ![GitHub stars](https://img.shields.io/github/stars/Borewit/file-type-av?logoWidth=50 )
+- ![GitHub forks](https://img.shields.io/github/forks/Borewit/file-type-av?style=social&logoWidth=50)
+
+
 ### [@file-type/xml](https://github.com/Borewit/file-type-xml)
 [file-type](#file-type) extension for detecting XML types like SVG, KML, XHTML. 
 This component is as well the detection engine of [is-svg](#is-svg).
