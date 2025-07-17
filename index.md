@@ -41,14 +41,6 @@ Tokenizer library reading binary data, often used in combination with other mult
 - ![GitHub stars](https://img.shields.io/github/stars/Borewit/strtok3?logoWidth=50 )
 - ![GitHub forks](https://img.shields.io/github/forks/Borewit/strtok3?style=social&logoWidth=50)
 
-### [peek-readable](https://github.com/Borewit/peek-readable)
-A library to enable peeking into streams and buffers. This is useful when working with file streams that require inspection of metadata without loading the entire file.
-
-- [![NPM version](https://img.shields.io/npm/v/peek-readable?style=social&logoWidth=56)](https://npmjs.org/package/peek-readable)
-- [![npm downloads](http://img.shields.io/npm/dm/peek-readable?style=social&logoWidth=23)](https://npmcharts.com/compare/peek-readable?start=1200&interval=30)
-- ![GitHub stars](https://img.shields.io/github/stars/Borewit/peek-readable?logoWidth=50 )
-- ![GitHub forks](https://img.shields.io/github/forks/Borewit/peek-readable?style=social&logoWidth=50)
-
 ### [@tokenizer/s3](https://github.com/Borewit/tokenizer-s3)
 The tokenizer-s3 module enables seamless integration with Amazon Web Services (AWS) S3, allowing you to read and tokenize data from S3 objects in a streaming fashion.
 This module extends the functionality of the `strtok3` tokenizer by providing support for chunked S3 data access.
