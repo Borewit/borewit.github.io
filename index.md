@@ -26,6 +26,14 @@ This library helps you read audio file metadata easily.
 - ![GitHub stars](https://img.shields.io/github/stars/Borewit/music-metadata?logoWidth=50 )
 - ![GitHub forks](https://img.shields.io/github/forks/Borewit/music-metadata?style=social&logoWidth=50)
 
+### [@music-metadata/icy](https://github.com/Borewit/music-metadata-icy)
+Decode ICY metadata (used by Icecast and Shoutcast) from streaming audio, using the web stream API.
+
+- [![NPM version](https://img.shields.io/npm/v/@music-metadata/icy?style=social&logoWidth=56)](https://npmjs.org/package/@music-metadata/icy)
+- [![npm downloads](http://img.shields.io/npm/dm/@music-metadata/icy?style=social&logoWidth=23)](https://npmcharts.com/compare/@music-metadata/icy?start=1200&interval=30)
+- ![GitHub stars](https://img.shields.io/github/stars/Borewit/music-metadata-icy?logoWidth=50 )
+- ![GitHub forks](https://img.shields.io/github/forks/Borewit/music-metadata-icy?style=social&logoWidth=50)
+
 ### [audio-tag-analyzer](https://github.com/Borewit/audio-tag-analyzer)
 Web-based app using `music-metadata` to analyze audio tags directly in the browser.
 
