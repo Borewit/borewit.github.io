@@ -34,6 +34,15 @@ Decode ICY metadata (used by Icecast and Shoutcast) from streaming audio, using 
 - ![GitHub stars](https://img.shields.io/github/stars/Borewit/music-metadata-icy?logoWidth=50 )
 - ![GitHub forks](https://img.shields.io/github/forks/Borewit/music-metadata-icy?style=social&logoWidth=50)
 
+### [ICY Radio Stream Player](https://github.com/Borewit/icy-radio-stream-player)
+Client side demo, written in react of [@music-metadata/icy](https://github.com/Borewit/music-metadata-icy), [music-metadata](https://github.com/Borewit/music-metadata).
+Streams a few FLAC radio streams, shows live metadata.
+
+- [![NPM version](https://img.shields.io/npm/v/@music-metadata/icy?style=social&logoWidth=56)](https://npmjs.org/package/@music-metadata/icy)
+- [![npm downloads](http://img.shields.io/npm/dm/@music-metadata/icy?style=social&logoWidth=23)](https://npmcharts.com/compare/@music-metadata/icy?start=1200&interval=30)
+- ![GitHub stars](https://img.shields.io/github/stars/Borewit/music-metadata-icy?logoWidth=50 )
+- ![GitHub forks](https://img.shields.io/github/forks/Borewit/music-metadata-icy?style=social&logoWidth=50)
+
 ### [audio-tag-analyzer](https://github.com/Borewit/audio-tag-analyzer)
 Web-based app using `music-metadata` to analyze audio tags directly in the browser.
 
