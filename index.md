@@ -77,11 +77,19 @@ The range request mechanism is derived from `@tokenizer/range`.
 - ![GitHub stars](https://img.shields.io/github/stars/Borewit/tokenizer-http?logoWidth=50 )
 - ![GitHub forks](https://img.shields.io/github/forks/Borewit/tokenizer-http?style=social&logoWidth=50)
 
+### [@borewit/text-codec](https://github.com/Borewit/text-codec)
+Lightweight, dependency-free TextEncoder/TextDecoder polyfill supporting UTF-8, UTF-16LE, ASCII, Latin-1, and Windows-1252 for engines like Hermes.
+
+- [![NPM version](https://img.shields.io/npm/v/@borewit/text-codec?style=social&logoWidth=56)](https://npmjs.org/package/@borewit/text-codec)
+- [![npm downloads](http://img.shields.io/npm/dm/@borewit/text-codec?style=social&logoWidth=23)](https://npmcharts.com/compare/@borewit/text-codec?start=365&interval=7)
+- ![GitHub stars](https://img.shields.io/github/stars/Borewit/text-codec?logoWidth=50 )
+- ![GitHub forks](https://img.shields.io/github/forks/Borewit/text-codec?style=social&logoWidth=50)
+
 ### [@tokenizer/inflate](https://github.com/Borewit/tokenizer-inflate)
 Utilizing the `strtok3` framework, to efficiently extract a portion of zipped file.
 This can for example be used, to extract a portion of a file stored in the cloud, where only required the required data is transferred.
  
-- [![npm downloads](http://img.shields.io/npm/dm/@tokenizer/inflate?style=social&logoWidth=23)](https://npmcharts.com/compare/@tokenizer/inflate?start=365)
+- [![npm downloads](http://img.shields.io/npm/dm/@tokenizer/inflate?style=social&logoWidth=23)](https://npmcharts.com/compare/@tokenizer/inflate?start=365&interval=7)
 - ![GitHub stars](https://img.shields.io/github/stars/Borewit/tokenizer-inflate?logoWidth=50 )
 - ![GitHub forks](https://img.shields.io/github/forks/Borewit/tokenizer-inflate?style=social&logoWidth=50)
 
