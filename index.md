@@ -151,7 +151,6 @@ Converts a WHATWG / Web-API readable stream into a Node.js Readable stream.
 - ![GitHub stars](https://img.shields.io/github/stars/Borewit/file-type-av?logoWidth=50 )
 - ![GitHub forks](https://img.shields.io/github/forks/Borewit/file-type-av?style=social&logoWidth=50)
 
-
 ### [@file-type/xml](https://github.com/Borewit/file-type-xml)
 [file-type](#file-type) extension for detecting XML types like SVG, KML, XHTML. 
 This component is as well the detection engine of [is-svg](#is-svg).
@@ -159,6 +158,13 @@ This component is as well the detection engine of [is-svg](#is-svg).
 - [![npm downloads](http://img.shields.io/npm/dm/@file-type/xml?style=social&logoWidth=23)](https://npmcharts.com/compare/@file-type/xml?start=365)
 - ![GitHub stars](https://img.shields.io/github/stars/Borewit/file-type-xml?logoWidth=50 )
 - ![GitHub forks](https://img.shields.io/github/forks/Borewit/file-type-xml?style=social&logoWidth=50)
+
+### [@file-type/pdf](https://github.com/Borewit/file-type-pdf)
+[file-type](#file-type) extension for detecting PDF based formats, including Adobe Illustrator.
+- [![NPM version](https://img.shields.io/npm/v/@file-type/pdf?style=social&logoWidth=56)](https://npmjs.org/package/@file-type/pdf)
+- [![npm downloads](http://img.shields.io/npm/dm/@file-type/pdf?style=social&logoWidth=23)](https://npmcharts.com/compare/@file-type/pdf?start=365)
+- ![GitHub stars](https://img.shields.io/github/stars/Borewit/file-type-pdf?logoWidth=50 )
+- ![GitHub forks](https://img.shields.io/github/forks/Borewit/file-type-pdf?style=social&logoWidth=50)
 
 ### [@borewit/async-queue](https://github.com/Borewit/async-queue)
 Great to async iterate over received events 
