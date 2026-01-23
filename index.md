@@ -12,6 +12,12 @@ Many of these projects are designed as composable building blocks, used on their
 
 <img src="images/musicbrainz-api-logo.png" width="60%" style="display: block; margin: auto;">
 
+## Support my work
+
+If these projects are useful to you, consider supporting their ongoing development and maintenance.
+- ❤️ [Sponsor me on GitHub](https://github.com/sponsors/Borewit)
+- ☕️ [Buy me a coffee](https://www.buymeacoffee.com/borewit)
+
 ## 📈 GitHub statistics
 ![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=Borewit&theme=default&show_icons=true&hide_border=true&count_private=true)
 ![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Borewit&theme=default&show_icons=true&hide_border=true&layout=compact)
@@ -248,11 +254,8 @@ Checks if a string is SVG.
 - ![GitHub stars](https://img.shields.io/github/stars/sindresorhus/is-svg?logoWidth=50 )
 - ![GitHub forks](https://img.shields.io/github/forks/sindresorhus/is-svg?style=social&logoWidth=50)
 
-## Support these Projects
-If you find this project useful and would like to support its development, consider sponsoring or contributing:
+## Support my work
 
-- [Become a sponsor to Borewit](https://github.com/sponsors/Borewit)
-
-- Buy me a coffee:
-
-  <a href="https://www.buymeacoffee.com/borewit" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy me A coffee" height="41" width="174"></a>
+If these projects are useful to you, consider supporting their ongoing development and maintenance.
+- ❤️ [Sponsor me on GitHub](https://github.com/sponsors/Borewit)
+- ☕️ [Buy me a coffee](https://www.buymeacoffee.com/borewit)
