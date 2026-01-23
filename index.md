@@ -3,8 +3,12 @@
 
 Welcome to My Home Page
 
-As a passionate software developer, I specialize in creating high-quality tools and libraries that enhance music metadata parsing, playlist manipulation, and beyond.
-My work spans a variety of projects aimed at solving challenges related to audio processing and metadata management, with a strong commitment to delivering reliable and effective software solutions for the developer community.
+I build and maintain open-source libraries focused on music metadata parsing, audio processing, 
+and streaming-oriented infrastructure such as tokenizers and format detection. 
+My work spans everything from end-user audio tools to low-level utilities used as building blocks in larger systems, 
+with a strong emphasis on correctness, performance, and long-term maintainability.
+
+Many of these projects are designed as composable building blocks, used on their own or as dependencies in larger audio and data-processing systems.
 
 <img src="images/musicbrainz-api-logo.png" width="60%" style="display: block; margin: auto;">
 
