@@ -120,7 +120,7 @@ A MusicBrainz-API-client for reading and submitting metadata.
 - ![GitHub forks](https://img.shields.io/github/forks/Borewit/musicbrainz-api?style=social&logoWidth=50)
 
 ### [win-guid](https://github.com/Borewit/win-guid)
-A module for read Windows byte layout GUIFD as used by COM, OLE, and Compound File Binary Format (CFBF)
+A module for read Windows byte layout GUID as used by COM, OLE, and Compound File Binary Format (CFBF)
 - [![NPM version](https://img.shields.io/npm/v/win-guid?style=social&logoWidth=56)](https://npmjs.org/package/win-guid)
 - [![npm downloads](http://img.shields.io/npm/dm/win-guid?style=social&logoWidth=23)](https://npmcharts.com/compare/win-guid?start=365)
 - ![GitHub stars](https://img.shields.io/github/stars/Borewit/win-guid?logoWidth=50 )
