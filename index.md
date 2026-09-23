@@ -53,12 +53,12 @@ Streams a few FLAC radio streams, shows live metadata.
 - ![GitHub stars](https://img.shields.io/github/stars/Borewit/music-metadata-icy?logoWidth=50 )
 - ![GitHub forks](https://img.shields.io/github/forks/Borewit/music-metadata-icy?style=social&logoWidth=50)
 
-### [audio-tag-analyzer](https://github.com/Borewit/audio-tag-analyzer)
+### [audio-tag-analyzer-vite](https://github.com/Borewit/audio-tag-analyzer-vite)
 Web-based app using `music-metadata` to analyze audio tags directly in the browser.
 
 - [![Netlify Status](https://api.netlify.com/api/v1/badges/9abc66aa-e5de-4b3a-b69a-04e967aa7978/deploy-status)](https://app.netlify.com/sites/audio-tag-analyzer/deploys)
-- ![GitHub stars](https://img.shields.io/github/stars/Borewit/audio-tag-analyzer?logoWidth=50 )
-- ![GitHub forks](https://img.shields.io/github/forks/Borewit/audio-tag-analyzer?style=social&logoWidth=50)
+- ![GitHub stars](https://img.shields.io/github/stars/Borewit/audio-tag-analyzer-vite?logoWidth=50 )
+- ![GitHub forks](https://img.shields.io/github/forks/Borewit/audio-tag-analyzer-vite?style=social&logoWidth=50)
 
 ### [strtok3](https://github.com/Borewit/strtok3)
 Tokenizer library reading binary data, often used in combination with other multimedia projects.
