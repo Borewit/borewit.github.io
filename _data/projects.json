@@ -1,0 +1,295 @@
+{
+  "groups": [
+    {
+      "id": "audio",
+      "title": "Audio and music tools"
+    },
+    {
+      "id": "binary",
+      "title": "Binary data and streaming"
+    },
+    {
+      "id": "file-detection-extensions",
+      "title": "File detection extensions"
+    },
+    {
+      "id": "utilities",
+      "title": "Development utilities"
+    },
+    {
+      "id": "upstream",
+      "title": "Shared maintenance and contributions"
+    }
+  ],
+  "projects": [
+    {
+      "name": "music-metadata",
+      "url": "https://github.com/Borewit/music-metadata",
+      "group": "audio",
+      "npmPackage": "music-metadata",
+      "description": "extracts tags, cover art, duration, and technical audio information from formats including MP3, FLAC, MP4, Ogg, and WAV. It works with files and streams in Node.js and browser applications, giving developers one API across different formats and data sources.",
+      "feature": {
+        "heading": "Read audio metadata across formats and environments",
+        "outcome": "Choose an audio file in the Audio Tag Analyzer to inspect its metadata and artwork directly in your browser. Your file stays on your device.",
+        "links": [
+          {
+            "label": "Try the Audio Tag Analyzer",
+            "url": "https://audio-tag-analyzer.netlify.app/"
+          },
+          {
+            "label": "Browse releases",
+            "url": "https://github.com/Borewit/music-metadata/releases"
+          },
+          {
+            "label": "Explore dependent projects",
+            "url": "https://github.com/Borewit/music-metadata/network/dependents"
+          },
+          {
+            "label": "View the analyzer source",
+            "url": "https://github.com/Borewit/audio-tag-analyzer-vite"
+          }
+        ],
+        "statsDetail": "Audio metadata downloads"
+      },
+      "includeInDownloadTotal": true
+    },
+    {
+      "name": "strtok3",
+      "url": "https://github.com/Borewit/strtok3",
+      "group": "binary",
+      "npmPackage": "strtok3",
+      "description": "provides a shared way to read binary data. With @tokenizer/http and @tokenizer/s3, parsers can read selected portions of remote files using range requests.",
+      "feature": {
+        "heading": "Read the parts of a remote file that matter",
+        "outcome": "Metadata parsing and file detection can skip data they do not need to read. When the source supports range requests, this can reduce data transfer compared with downloading the entire file.",
+        "links": [
+          {
+            "label": "See an HTTP parsing example",
+            "url": "https://github.com/Borewit/tokenizer-http#usage"
+          },
+          {
+            "label": "Explore the S3 adapter",
+            "url": "https://github.com/Borewit/tokenizer-s3"
+          }
+        ],
+        "statsDetail": "Binary tokenizer downloads"
+      },
+      "includeInDownloadTotal": true
+    },
+    {
+      "name": "file-type",
+      "url": "https://github.com/sindresorhus/file-type",
+      "group": "upstream",
+      "npmPackage": "file-type",
+      "description": "identifies file formats from their contents. I help maintain this library, which uses the same tokenizer infrastructure and connects this work to applications beyond audio.",
+      "feature": {
+        "heading": "Improve file detection in the wider ecosystem",
+        "outcome": "My file-type extensions add detection for audio and video, compound documents, PDF-based formats, and XML-based formats. I also contribute to is-svg.",
+        "links": [
+          {
+            "label": "Explore file-type extensions",
+            "url": "#file-detection-extensions"
+          },
+          {
+            "label": "View the maintainers",
+            "url": "https://github.com/sindresorhus/file-type#maintainers"
+          },
+          {
+            "label": "View my file-type contributions",
+            "url": "https://github.com/sindresorhus/file-type/commits?author=Borewit"
+          }
+        ],
+        "statsDetail": "Shown separately from my package total"
+      },
+      "includeInDownloadTotal": false
+    },
+    {
+      "name": "@tokenizer/http",
+      "url": "https://github.com/Borewit/tokenizer-http",
+      "description": "Read selected portions of remote files over HTTP using range requests.",
+      "group": "binary",
+      "npmPackage": "@tokenizer/http",
+      "includeInDownloadTotal": true
+    },
+    {
+      "name": "@tokenizer/s3",
+      "url": "https://github.com/Borewit/tokenizer-s3",
+      "description": "Read and tokenize selected portions of objects stored in Amazon S3.",
+      "group": "binary",
+      "npmPackage": "@tokenizer/s3",
+      "includeInDownloadTotal": true
+    },
+    {
+      "name": "Audio Tag Analyzer",
+      "url": "https://github.com/Borewit/audio-tag-analyzer-vite",
+      "description": "Inspect audio metadata and artwork in your browser, without uploading your files.",
+      "group": "audio"
+    },
+    {
+      "name": "is-svg",
+      "url": "https://github.com/sindresorhus/is-svg",
+      "description": "Check whether a string is SVG. I contribute to this project.",
+      "group": "upstream"
+    },
+    {
+      "name": "@music-metadata/icy",
+      "url": "https://github.com/Borewit/music-metadata-icy",
+      "description": "Decode Icecast and Shoutcast metadata from streaming audio using Web Streams.",
+      "group": "audio",
+      "npmPackage": "@music-metadata/icy",
+      "includeInDownloadTotal": true
+    },
+    {
+      "name": "ICY Radio Stream Player",
+      "url": "https://github.com/Borewit/icy-radio-stream-player",
+      "description": "Demonstrate live radio playback and metadata using the audio libraries together.",
+      "group": "audio"
+    },
+    {
+      "name": "musicbrainz-api",
+      "url": "https://github.com/Borewit/musicbrainz-api",
+      "description": "Read and submit music metadata through the MusicBrainz API.",
+      "group": "audio",
+      "npmPackage": "musicbrainz-api",
+      "includeInDownloadTotal": true
+    },
+    {
+      "name": "listFix()",
+      "url": "https://github.com/Borewit/listFix",
+      "description": "Repair local playlists when the files they reference have moved.",
+      "group": "audio"
+    },
+    {
+      "name": "Lizzy",
+      "url": "https://github.com/Borewit/lizzy",
+      "description": "Parse multimedia playlists in a range of formats.",
+      "group": "audio"
+    },
+    {
+      "name": "@tokenizer/range",
+      "url": "https://github.com/Borewit/tokenizer-range",
+      "description": "Adapt tokenizer reads to HTTP range requests.",
+      "group": "binary",
+      "npmPackage": "@tokenizer/range",
+      "includeInDownloadTotal": true
+    },
+    {
+      "name": "@tokenizer/inflate",
+      "url": "https://github.com/Borewit/tokenizer-inflate",
+      "description": "Extract portions of compressed data through the tokenizer framework.",
+      "group": "binary",
+      "npmPackage": "@tokenizer/inflate",
+      "includeInDownloadTotal": true
+    },
+    {
+      "name": "@borewit/text-codec",
+      "url": "https://github.com/Borewit/text-codec",
+      "description": "Encode and decode text in environments that need a TextEncoder/TextDecoder polyfill.",
+      "group": "binary",
+      "npmPackage": "@borewit/text-codec",
+      "includeInDownloadTotal": true
+    },
+    {
+      "name": "win-guid",
+      "url": "https://github.com/Borewit/win-guid",
+      "description": "Read GUIDs in the Windows binary layout.",
+      "group": "binary",
+      "npmPackage": "win-guid",
+      "includeInDownloadTotal": true
+    },
+    {
+      "name": "read-next-line",
+      "url": "https://github.com/Borewit/read-next-line",
+      "description": "Read lines of text from a Node.js readable stream.",
+      "group": "binary",
+      "npmPackage": "read-next-line",
+      "includeInDownloadTotal": true
+    },
+    {
+      "name": "node-readable-to-web-readable-stream",
+      "url": "https://github.com/Borewit/node-readable-to-web-readable-stream",
+      "description": "Convert Node.js readable streams to Web Streams.",
+      "group": "binary",
+      "npmPackage": "node-readable-to-web-readable-stream",
+      "includeInDownloadTotal": true
+    },
+    {
+      "name": "readable-web-to-node-stream",
+      "url": "https://github.com/Borewit/readable-web-to-node-stream",
+      "description": "Convert Web Streams to Node.js readable streams.",
+      "group": "binary",
+      "npmPackage": "readable-web-to-node-stream",
+      "includeInDownloadTotal": true
+    },
+    {
+      "name": "@file-type/av",
+      "url": "https://github.com/Borewit/file-type-av",
+      "description": "Detect audio and video file types.",
+      "group": "file-detection-extensions",
+      "npmPackage": "@file-type/av",
+      "includeInDownloadTotal": true
+    },
+    {
+      "name": "@file-type/cfbf",
+      "url": "https://github.com/Borewit/file-type-cfbf",
+      "description": "Detect formats based on Compound File Binary Format, also known as OLE compound documents.",
+      "group": "file-detection-extensions",
+      "npmPackage": "@file-type/cfbf",
+      "includeInDownloadTotal": true
+    },
+    {
+      "name": "@file-type/pdf",
+      "url": "https://github.com/Borewit/file-type-pdf",
+      "description": "Detect PDF-based formats, including Adobe Illustrator.",
+      "group": "file-detection-extensions",
+      "npmPackage": "@file-type/pdf",
+      "includeInDownloadTotal": true
+    },
+    {
+      "name": "@file-type/xml",
+      "url": "https://github.com/Borewit/file-type-xml",
+      "description": "Detect XML-based formats such as SVG, KML, and XHTML; also provides the detection engine for is-svg.",
+      "group": "file-detection-extensions",
+      "npmPackage": "@file-type/xml",
+      "includeInDownloadTotal": true
+    },
+    {
+      "name": "load-esm",
+      "url": "https://github.com/Borewit/load-esm",
+      "description": "Import ESM packages dynamically from CommonJS TypeScript projects.",
+      "group": "utilities",
+      "npmPackage": "load-esm",
+      "includeInDownloadTotal": true
+    },
+    {
+      "name": "rate-limit-threshold",
+      "url": "https://github.com/Borewit/rate-limit-threshold",
+      "description": "Limit calls within a given period.",
+      "group": "utilities",
+      "npmPackage": "rate-limit-threshold",
+      "includeInDownloadTotal": true
+    },
+    {
+      "name": "@borewit/async-queue",
+      "url": "https://github.com/Borewit/async-queue",
+      "description": "Consume incoming events through asynchronous iteration.",
+      "group": "utilities",
+      "npmPackage": "@borewit/async-queue",
+      "includeInDownloadTotal": true
+    },
+    {
+      "name": "bounded-queue",
+      "url": "https://github.com/Borewit/bounded-queue",
+      "description": "Coordinate asynchronous producers and consumers.",
+      "group": "utilities",
+      "npmPackage": "bounded-queue",
+      "includeInDownloadTotal": true
+    },
+    {
+      "name": "svg-sanitizer",
+      "url": "https://github.com/Borewit/svg-sanitizer",
+      "description": "Clean SVG files by removing scripts and blocking external resource loading.",
+      "group": "utilities"
+    }
+  ]
+}
