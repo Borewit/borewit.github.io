@@ -1,0 +1,107 @@
+.oss-stats {
+  --stats-ink: #173d46;
+  --stats-muted: #50616b;
+  margin: 1.5rem 0 2.5rem;
+}
+.oss-stats .oss-stats__period {
+  color: var(--stats-muted);
+  font-size: .85rem;
+  font-weight: 600;
+  letter-spacing: .08em;
+  text-transform: uppercase;
+}
+.oss-stats__grid {
+  display: grid;
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+  gap: .85rem;
+}
+.oss-stats .oss-stats__card {
+  display: flex;
+  flex-direction: column;
+  gap: .6rem;
+  padding: 1.3rem;
+  border: 1px solid #d6e3e6;
+  border-radius: 12px;
+  background: #f5f9fa;
+  color: var(--stats-ink);
+  text-decoration: none;
+}
+.oss-stats .oss-stats__card--total {
+  grid-column: 1 / -1;
+  padding: 1.65rem;
+  border-color: #164e50;
+  background: linear-gradient(120deg, #12383e, #1b5c5a);
+  color: #fff;
+}
+.oss-stats a.oss-stats__card:hover {
+  border-color: #287b80;
+  background: #eaf3f3;
+  text-decoration: none;
+}
+.oss-stats a:focus-visible,
+.oss-stats summary:focus-visible {
+  outline: 3px solid #287b80;
+  outline-offset: 4px;
+}
+.oss-stats__label {
+  font-size: .9rem;
+  font-weight: 600;
+}
+.oss-stats__number {
+  font-size: clamp(1.65rem, 4vw, 2.5rem);
+  font-weight: 700;
+  font-variant-numeric: tabular-nums;
+  letter-spacing: -.04em;
+  line-height: 1.15;
+  overflow-wrap: anywhere;
+}
+.oss-stats__card--total .oss-stats__number {
+  font-size: clamp(2.5rem, 8vw, 4.5rem);
+}
+.oss-stats__detail {
+  margin-top: auto;
+  font-size: .8rem;
+  color: var(--stats-muted);
+}
+.oss-stats__card--total .oss-stats__detail {
+  color: #d2e9e7;
+}
+.oss-stats .oss-stats__status,
+.oss-stats .oss-stats__note {
+  margin: 1rem 0;
+  color: var(--stats-muted);
+  font-size: .85rem;
+}
+.oss-stats__breakdown summary {
+  cursor: pointer;
+  color: var(--stats-ink);
+  font-size: .9rem;
+  font-weight: 600;
+}
+.oss-stats .oss-stats__breakdown ul {
+  margin: .75rem 0;
+  padding: 0;
+  list-style: none;
+}
+.oss-stats__breakdown li {
+  display: flex;
+  justify-content: space-between;
+  align-items: baseline;
+  gap: 1rem;
+  padding: .45rem 0;
+  border-bottom: 1px solid #e5ecee;
+  font-size: .85rem;
+}
+.oss-stats__breakdown a {
+  overflow-wrap: anywhere;
+  min-width: 0;
+}
+.oss-stats__breakdown li span {
+  color: var(--stats-muted);
+  font-variant-numeric: tabular-nums;
+  white-space: nowrap;
+}
+@media (max-width: 600px) {
+  .oss-stats__grid { grid-template-columns: 1fr; }
+  .oss-stats .oss-stats__card { padding: 1.15rem; }
+}
