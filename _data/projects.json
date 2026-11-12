@@ -27,9 +27,9 @@
       "url": "https://github.com/Borewit/music-metadata",
       "group": "audio",
       "npmPackage": "music-metadata",
-      "description": "extracts tags, cover art, duration, and technical audio information from formats including MP3, FLAC, MP4, Ogg, and WAV. It works with files and streams in Node.js and browser applications, giving developers one API across different formats and data sources.",
+      "description": "reads and writes audio metadata in Node.js and browsers. It extracts tags, cover art, duration, and technical audio information from a wide range of formats, with file and stream support for reading. Edit tags and cover art in FLAC, Ogg Vorbis/Opus, MP3, ADTS AAC, WAV, and MP4/M4A/M4B files without re-encoding audio.",
       "feature": {
-        "heading": "Read audio metadata across formats and environments",
+        "heading": "Read and write audio metadata across formats and environments",
         "outcome": "Choose an audio file in the Audio Tag Analyzer to inspect its metadata and artwork directly in your browser. Your file stays on your device.",
         "links": [
           {
