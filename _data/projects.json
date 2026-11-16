@@ -104,6 +104,22 @@
       "includeInDownloadTotal": false
     },
     {
+      "name": "token-types",
+      "url": "https://github.com/Borewit/token-types",
+      "description": "Read and write numeric, string, and byte-array values in binary data, with reusable tokens for strtok3.",
+      "group": "binary",
+      "npmPackage": "token-types",
+      "includeInDownloadTotal": true
+    },
+    {
+      "name": "@tokenizer/token",
+      "url": "https://github.com/Borewit/tokenizer-token",
+      "description": "Provide shared TypeScript token interfaces for strtok3 and related binary parsing libraries.",
+      "group": "binary",
+      "npmPackage": "@tokenizer/token",
+      "includeInDownloadTotal": true
+    },
+    {
       "name": "@tokenizer/http",
       "url": "https://github.com/Borewit/tokenizer-http",
       "description": "Read selected portions of remote files over HTTP using range requests.",
@@ -163,6 +179,12 @@
       "name": "Lizzy",
       "url": "https://github.com/Borewit/lizzy",
       "description": "Parse multimedia playlists in a range of formats.",
+      "group": "audio"
+    },
+    {
+      "name": "Lizzy Transcode",
+      "url": "https://github.com/Borewit/lizzy-transcode",
+      "description": "Convert multimedia playlists between formats from the command line.",
       "group": "audio"
     },
     {
