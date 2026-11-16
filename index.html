@@ -43,11 +43,11 @@ description: I’m Borewit. I build and maintain open-source libraries for audio
     <section class="page-section" id="impact" aria-labelledby="impact-heading">
       <p class="eyebrow">The reach of shared infrastructure</p>
       <h2 id="impact-heading">Open source in use</h2>
-      <section class="oss-stats" aria-label="Monthly npm package downloads" aria-busy="true">
+      <section class="oss-stats" aria-label="npm package downloads per month" aria-busy="true">
         <p class="oss-stats__period" id="stats-period">Last complete calendar month</p>
         <div class="oss-stats__grid">
           <div class="oss-stats__card oss-stats__card--total">
-            <span class="oss-stats__label">Downloads across my featured packages</span>
+            <span class="oss-stats__label">Downloads per month across my featured packages</span>
             <strong class="oss-stats__number" id="stats-total">—</strong>
             <span class="oss-stats__detail" id="stats-coverage">Fetching package statistics…</span>
           </div>
@@ -61,10 +61,10 @@ description: I’m Borewit. I build and maintain open-source libraries for audio
           {% endif %}
           {% endfor %}
         </div>
-        <p class="oss-stats__status" id="stats-status" role="status">Loading monthly downloads from npm…</p>
-        <noscript><p>Enable JavaScript to see live download statistics, or explore the packages linked below.</p></noscript>
+        <p class="oss-stats__status" id="stats-status" role="status">Loading downloads per month from npm…</p>
+        <noscript><p>Enable JavaScript to see npm downloads per month, or explore the packages linked below.</p></noscript>
         <details class="oss-stats__breakdown">
-          <summary>Packages included in the total</summary>
+          <summary>Packages included in the monthly total</summary>
           <ul id="stats-packages"></ul>
         </details>
         <p class="oss-stats__note">Source: <a href="https://github.com/npm/registry/blob/main/docs/download-counts.md">npm download counts</a>. Totals include dependency and automated downloads, so they do not represent unique people or applications. One installation can download several of these packages.</p>

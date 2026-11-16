@@ -49,7 +49,7 @@
             "url": "https://github.com/Borewit/audio-tag-analyzer-vite"
           }
         ],
-        "statsDetail": "Audio metadata downloads"
+        "statsDetail": "Audio metadata downloads per month"
       },
       "includeInDownloadTotal": true
     },
@@ -72,7 +72,7 @@
             "url": "https://github.com/Borewit/tokenizer-s3"
           }
         ],
-        "statsDetail": "Binary tokenizer downloads"
+        "statsDetail": "Binary tokenizer downloads per month"
       },
       "includeInDownloadTotal": true
     },
@@ -99,7 +99,7 @@
             "url": "https://github.com/sindresorhus/file-type/commits?author=Borewit"
           }
         ],
-        "statsDetail": "Shown separately from my package total"
+        "statsDetail": "Downloads per month · excluded from my package total"
       },
       "includeInDownloadTotal": false
     },
