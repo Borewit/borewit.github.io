@@ -34,3 +34,15 @@ Run the network-free regression tests (no Jekyll build or dependencies required)
 ```sh
 node --test test/stats.test.cjs
 ```
+
+## Sponsor credit
+
+The homepage acknowledges CodeRabbit with a small “Code reviews powered by”
+credit in the support section. The official logo for
+light backgrounds is stored locally, unchanged, at
+`assets/images/sponsors/coderabbit.svg`, so visitors do not need to fetch it from
+an external site.
+
+Logo source: [CodeRabbit brand guidelines](https://www.coderabbit.ai/brand),
+[orange logotype SVG](https://www.coderabbit.ai/content/assets/orange-typemark.svg).
+Keep the supplied artwork, proportions, and clear space intact.

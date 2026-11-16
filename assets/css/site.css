@@ -56,7 +56,12 @@ section[id], main[id] { scroll-margin-top: 2rem; }
 .result a { overflow-wrap: anywhere; }
 .support { display: grid; grid-template-columns: 1fr 1.5fr; gap: 3rem; }
 .support-intro h2 { max-width: 350px; }
-.support-copy p:last-child { font-size: .9rem; color: var(--muted); margin-bottom: 0; }
+.support-copy > p:last-of-type { font-size: .9rem; color: var(--muted); margin-bottom: 0; }
+.sponsor-credit { margin-top: 2rem; padding-top: 1.5rem; border-top: 1px solid var(--line); text-align: center; }
+.sponsor-credit h3 { margin: 0 0 .75rem; font-size: 1rem; }
+.sponsor-credit__attribution { display: flex; flex-wrap: wrap; align-items: center; justify-content: center; gap: .5rem 1rem; margin-bottom: .65rem; color: var(--muted); font-size: .9rem; }
+.sponsor-credit__logo { display: inline-flex; max-width: 100%; padding-block: .4rem; text-decoration: none; }
+.sponsor-credit__logo img { display: block; width: 240px; max-width: 100%; height: auto; }
 .project-group { margin-block: 2.5rem; }
 .project-group h3 { padding-bottom: .75rem; border-bottom: 2px solid var(--line); }
 .project-list { margin: 0; }
